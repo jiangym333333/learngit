@@ -10,3 +10,7 @@ this is fifth line
 
 
 create a new branch:dev,added from master branch
+
+delete branch dev
+
+create a new branch :feature1
