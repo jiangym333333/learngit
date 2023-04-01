@@ -17,3 +17,6 @@ create a new branch :feature1
 
 
 create a new branch :dev1
+
+create a new branch :dev2
+
